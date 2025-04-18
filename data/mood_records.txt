@@ -3,3 +3,4 @@
 2025-04-17,Stressed,5,I am very stressed
 2025-04-17,Tired,4,I am very tired after completing the project
 2025-04-17,Happy,9,Now I am happy
+2025-04-17,Happy,9,I feel like going out for a walk
